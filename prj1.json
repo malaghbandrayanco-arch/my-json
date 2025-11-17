@@ -1,0 +1,13 @@
+{
+  "name" : "mamad",
+  "lastname" : "alavi",
+  "age" : 30,
+  "isVarified" : true,
+  "email" : "mamad@gmail.com",
+  "skills" : ["art" , "writing", "content"],
+  "address" : {
+    "street" : "heravi",
+    "postalCode" : 525452 ,
+    "city" : "tehran"
+  }
+}

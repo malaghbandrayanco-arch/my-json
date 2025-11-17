@@ -1,0 +1,33 @@
+
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "ماشین‌ها: اسب بخار vs وزن",
+  "width": 500,
+  "height": 300,
+  "data": {"url": "https://vega.github.io/vega-lite/examples/data/cars.json"},
+  "mark": "circle",
+  "encoding": {
+    "x": {
+      "field": "Horsepower",
+      "type": "quantitative",
+      "title": "اسب بخار"
+    },
+    "y": {
+      "field": "Miles_per_Gallon",
+      "type": "quantitative",
+      "title": "کیلومتر بر گالن"
+    },
+    "color": {
+      "field": "Origin",
+      "type": "nominal",
+      "title": "منشأ"
+    },
+    "size": {
+      "field": "Weight_in_Pounds",
+      "type": "quantitative"
+    }
+  },
+  "selection": {
+    "brush": {"type": "interval"}
+  }
+}

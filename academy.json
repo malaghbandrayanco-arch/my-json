@@ -1,0 +1,69 @@
+{
+    "data": {
+        "content": {
+            "metadata": [
+                {
+                    "icon": "https://cdn.hamkari.com/dmVrM4tkbpNfaiNDxVJpa.webp",
+                    "title": "ورود",
+                    "subtitle_list": [
+                        {
+                            "subtitle": "زیر عنوان 1جدا کننده",
+                            "caption_pic": [
+                                {
+                                    "caption": "کپشن1 برای زیر عنوان 1",
+                                    "pic_list": [
+                                        {
+                                            "pic" : "https://cdn.hamkari.com/PE9HilAhc7-5vrlrHzPF0.webp"
+                                        }
+                                    ],
+                                    "vid": "https://cdn.hamkari.com/uWb7JKES9-Kl0tvZ18fwI.mp4",
+                                    "vid_display": "block"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "icon": "https://cdn.hamkari.com/dmVrM4tkbpNfaiNDxVJpa.webp",
+                    "title": "ورود",
+                    "subtitle_list": [
+                        {
+                            "subtitle": "زیر عنوان 1جدا کننده",
+                            "caption_pic": [
+                                {
+                                    "caption": "کپشن1 برای زیر عنوان 1",
+                                    "pic_list": [
+                                        {
+                                            "pic" : "https://cdn.hamkari.com/PE9HilAhc7-5vrlrHzPF0.webp"
+                                        }
+                                    ],
+                                    "vid": "https://cdn.hamkari.com/uWb7JKES9-Kl0tvZ18fwI.mp4",
+                                    "vid_display": "block"
+                                }
+                            ]
+                        }
+                    ]
+                },{
+                    "icon": "https://cdn.hamkari.com/dmVrM4tkbpNfaiNDxVJpa.webp",
+                    "title": "ورود",
+                    "subtitle_list": [
+                        {
+                            "subtitle": "زیر عنوان 1جدا کننده",
+                            "caption_pic": [
+                                {
+                                    "caption": "کپشن1 برای زیر عنوان 1",
+                                    "pic_list": [
+                                        {
+                                            "pic" : "https://cdn.hamkari.com/PE9HilAhc7-5vrlrHzPF0.webp"
+                                        }
+                                    ],
+                                    "vid": "https://cdn.hamkari.com/uWb7JKES9-Kl0tvZ18fwI.mp4",
+                                    "vid_display": "none"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
